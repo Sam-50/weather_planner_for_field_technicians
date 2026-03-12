@@ -1,6 +1,6 @@
 # AI Weather Intelligent Planner for Field Technicians
 
-This root folder now primarily contains the weather-aware field technician planning project.
+The root folder contains all the files for this project.
 
 ## Main Weather Planner Files
 - `app.py`
